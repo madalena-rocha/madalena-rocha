@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎓 I'm graduated in Mechanical Engineering
 - 📚 I'm postgraduate in Materials Science
-- 🚀 I’m currently studying on Rocketseat
+- 🚀 I’m currently studying on Rocketseat and Digital House
 - 📝 I’m currently learning about HTML, CSS and JavaScript
 - 💻 I’m looking for an opportunity as a junior developer
 - ⚡ Curiosity: I have a cat named Nikole

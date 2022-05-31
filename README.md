@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 -->
 
-Sou Bacharela em Engenharia Mecânica, Mestre em Ciência dos Materiais e estou migrando com sucesso para a área de Desenvolvimento Front-end. Sou bolsista na Rocketseat e na Digital House pelo programa Potência Tech, e possuo conhecimentos em HTML, CSS, JavaScript, Git e GitHub. Atualmente estou em busca de uma oportunidade como Desenvolvedora Front-end Júnior.
+Sou Bacharela em Engenharia Mecânica, Mestre em Ciência dos Materiais e estou migrando com sucesso para a área de Desenvolvimento Front-end. Sou bolsista na Rocketseat e na Digital House pelo programa Potência Tech, e possuo conhecimentos em HTML, CSS, JavaScript, Git e GitHub. Atualmente estou em busca de uma oportunidade como Desenvolvedor Front-end Júnior.
 
 ### Links
                 

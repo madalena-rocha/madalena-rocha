@@ -44,5 +44,3 @@ Sou Bacharela em Engenharia Mecânica, Mestre em Ciência dos Materiais e estou 
 ### GitHub Analytics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madalena-rocha&show_icons=true&locale=en&layout=compact" alt="madalena-rocha" /></p>
-<p></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madalena-rocha&show_icons=true&locale=en" alt="madalena-rocha" /></p>

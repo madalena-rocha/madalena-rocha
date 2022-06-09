@@ -1,5 +1,3 @@
-## Olá 👋, sou Madalena!
-
 <!--
 ### Hi there 👋, I am Madalena!
 
@@ -25,6 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 -->
 
+## Olá 👋, sou Madalena!
+
 Sou Bacharela em Engenharia Mecânica, Mestre em Ciência dos Materiais e estou migrando com sucesso para a área de Desenvolvimento Front-end. Sou bolsista na Rocketseat e na Digital House pelo programa Potência Tech, e possuo conhecimentos em HTML, CSS, JavaScript, Git e GitHub. Atualmente estou em busca de uma oportunidade como Desenvolvedor Front-end Júnior.
 
 ## Links
@@ -43,4 +43,5 @@ Sou Bacharela em Engenharia Mecânica, Mestre em Ciência dos Materiais e estou 
 
 ## GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madalena-rocha&show_icons=true&locale=en&layout=compact" alt="madalena-rocha" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madalena-rocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madalena-rocha&layout=compact&langs_count=7&theme=dracula"/>

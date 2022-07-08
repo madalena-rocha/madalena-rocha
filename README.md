@@ -1,6 +1,6 @@
 ![Header](https://github.com/madalena-rocha/madalena-rocha/blob/main/assets/github-header-image-pt.png)
 
-Sou Engenheira Mecânica, mestre em Ciência dos Materiais, e estou migrando com sucesso para a área de Desenvolvimento Front-end. Sou bolsista na Rocketseat e na Digital House pelo programa Potência Tech, e possuo conhecimentos em HTML, CSS, JavaScript e Git. Atualmente estou em busca de uma oportunidade como Desenvolvedora Front-end.
+Sou Engenheira Mecânica, mestre em Ciência dos Materiais, e estou migrando com sucesso para a área de Desenvolvimento Front-end. Sou bolsista na Rocketseat e na Digital House pelo programa Potência Tech, possuo conhecimentos em HTML, CSS, JavaScript e Git, e estou estudando ReactJS. Atualmente estou em busca de uma oportunidade como Desenvolvedora Front-end.
 
 ## Links
                 

@@ -1,6 +1,10 @@
-![Header](https://github.com/madalena-rocha/madalena-rocha/blob/main/assets/github-header-image-pt.png)
+![Header](https://github.com/madalena-rocha/madalena-rocha/blob/main/assets/github-header-image-en.png)
 
-Sou Engenheira Mecânica, mestre em Ciência dos Materiais, e estou migrando com sucesso para a área de Desenvolvimento Front-end. Sou bolsista na Rocketseat e na Digital House pelo programa Potência Tech, possuo conhecimentos em HTML, CSS e JavaScript, e estou estudando ReactJS. Atualmente estou em busca de uma oportunidade como Desenvolvedora Front-end.
+<!--
+Sou Engenheira Mecânica, mestre em Ciência dos Materiais, e estou migrando com sucesso para a área de Desenvolvimento Front-end. Sou bolsista na [Rocketseat](https://www.rocketseat.com.br/) e na [Digital House](https://www.digitalhouse.com/br) pelo programa [Potência Tech](https://potenciatech.com.br/), possuo conhecimentos em `HTML`, `CSS` e `JavaScript`, e estou estudando `ReactJS`. Atualmente estou em busca de uma oportunidade como Desenvolvedora Front-end.
+-->
+
+I am a Mechanical Engineer, Master in Materials Science, and I am successfully migrating to the Front-end Development area. I am a fellow at [Rocketseat](https://www.rocketseat.com.br/) and [Digital House](https://www.digitalhouse.com/br) for the [Potência Tech](https://potenciatech.com.br/) program, I have knowledge in `HTML`, `CSS` and `JavaScript`, and I am studying `ReactJS`. I am currently looking for an opportunity as a Front-end Developer.
 
 ## Links
                 

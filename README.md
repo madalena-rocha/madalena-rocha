@@ -2,11 +2,11 @@
 
 <img src="https://user-images.githubusercontent.com/102333181/183000071-0c8845b5-e71b-4c74-8912-05e3145f3fa1.png" alt="Brazil's flag" width="40">
 
-Sou Engenheira Mecânica, mestre em Ciência dos Materiais, e estou migrando com sucesso para a área de Desenvolvimento Front-end. Sou bolsista na [Rocketseat](https://www.rocketseat.com.br/) e na [Digital House](https://www.digitalhouse.com/br) pelo programa [Potência Tech](https://potenciatech.com.br/), possuo conhecimentos em `HTML`, `CSS` e `JavaScript`, e estou estudando `ReactJS`. Atualmente estou em busca de uma oportunidade como Desenvolvedora Front-end.
+Sou Engenheira Mecânica, mestre em Ciência dos Materiais, e estou migrando com sucesso para a área de Desenvolvimento Front-end. Sou bolsista na [Rocketseat](https://www.rocketseat.com.br/) e fui bolsista na [Digital House](https://www.digitalhouse.com/br) pelo programa [Potência Tech](https://potenciatech.com.br/), possuo conhecimentos em `HTML`, `CSS` e `JavaScript`, e estou estudando `ReactJS`. Atualmente estou em busca de uma oportunidade como Desenvolvedora Front-end.
 
 <img src="https://user-images.githubusercontent.com/102333181/183000154-724b273a-f987-4128-88c0-0edc3b809bde.png" alt="United states's flag" width="40">
 
-I am a Mechanical Engineer, Master in Materials Science, and I am successfully migrating to the Front-end Development area. I am a fellow at [Rocketseat](https://www.rocketseat.com.br/) and [Digital House](https://www.digitalhouse.com/br) for the [Potência Tech](https://potenciatech.com.br/) program, I have knowledge in `HTML`, `CSS` and `JavaScript`, and I am studying `ReactJS`. I am currently looking for an opportunity as a Front-end Developer.
+I am a Mechanical Engineer, Master in Materials Science, and I am successfully migrating to the Front-end Development area. I am a fellow at [Rocketseat](https://www.rocketseat.com.br/) and I was a fellow at [Digital House](https://www.digitalhouse.com/br) for the [Potência Tech](https://potenciatech.com.br/) program, I have knowledge in `HTML`, `CSS` and `JavaScript`, and I am studying `ReactJS`. I am currently looking for an opportunity as a Front-end Developer.
 
 ## Contact me
                 

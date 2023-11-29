@@ -1,19 +1,35 @@
 ![Header](https://github.com/madalena-rocha/madalena-rocha/blob/main/assets/github-header-image-en.png)
 
-<img src="https://user-images.githubusercontent.com/102333181/183000071-0c8845b5-e71b-4c74-8912-05e3145f3fa1.png" alt="Brazil's flag" width="40">
+<img src="https://user-images.githubusercontent.com/102333181/183000071-0c8845b5-e71b-4c74-8912-05e3145f3fa1.png" alt="Brazil's flag" width="40" />
 
-Olá! Sou uma Engenheira Mecânica que se apaixonou pelo mundo do Desenvolvimento Front-end. Com habilidades em `HTML`, `CSS`, `JavaScript` e `ReactJS`, tenho trabalhado incansavelmente para me aprimorar, inclusive através do programa Potência Tech, com bolsas na Rocketseat e na Digital House, onde tive a oportunidade de aprender com mentores incríveis e construir projetos desafiadores. Agora, estou em busca de uma oportunidade emocionante como Desenvolvedora Front-end, onde possa contribuir com minhas habilidades e conhecimentos para projetos que possam impactar positivamente as pessoas. Vamos construir algo juntos?
+<p>Olá 👋🏾</p>
+<p>Sou uma Engenheira Mecânica com mestrado em Ciência dos Materiais e formação complementar em programação, atuando no Desenvolvimento Front-end.</p>
+<p>Atualmente, faço parte do Space Squad, uma comunidade de tecnologia da Rocketseat, onde compartilho conhecimentos e aprendo com outros desenvolvedores.</p>
+<p>Meu objetivo é colaborar em projetos que façam a diferença na vida das pessoas.</p>
+<p>Vamos construir algo juntos?</p>
 
-<img src="https://user-images.githubusercontent.com/102333181/183000154-724b273a-f987-4128-88c0-0edc3b809bde.png" alt="United states's flag" width="40">
+<img src="https://user-images.githubusercontent.com/102333181/183000154-724b273a-f987-4128-88c0-0edc3b809bde.png" alt="United states's flag" width="40" />
 
-Hello! I am a Mechanical Engineer who has fallen in love with the world of Front-end Development. With skills in `HTML`, `CSS`, `JavaScript`, and `ReactJS`, I have worked tirelessly to improve myself, including through the Potência Tech program with scholarships at Rocketseat and Digital House, where I had the opportunity to learn from incredible mentors and build challenging projects. Now, I am seeking an exciting opportunity as a Front-end Developer, where I can contribute my skills and knowledge to projects that can positively impact people. Let's build something together?
+<p>Hello 👋🏾</p>
+<p>I'm a Mechanical Engineer with a master's degree in Materials Science and additional training in programming, working in Front-end Development.</p>
+<p>Currently, I'm a member of Space Squad, a technology community at Rocketseat, where I share knowledge and learn from other developers.</p>
+<p>My goal is to contribute to projects that make a difference in people's lives.</p>
+<p>Shall we build something together?</p>
 
 ## Contact me
-                
-<a href="https://www.linkedin.com/in/madalena-machado-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:rochamada1997m@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="http://discordapp.com/users/827312692905377802" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/madalena.machado.rocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/madalena-machado-rocha/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<a href="mailto:rochamada1997m@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+</a>
+<a href="http://discordapp.com/users/827312692905377802" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+</a> 
+<a href="https://www.instagram.com/madalena.machado.rocha/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+</a>
 
 ## Techs & Tools
 
@@ -29,9 +45,30 @@ Hello! I am a Mechanical Engineer who has fallen in love with the world of Front
 
 ## GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madalena-rocha&layout=compact&langs_count=7&theme=omni"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madalena-rocha&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madalena-rocha&theme=omni" alt="stats"/>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madalena-rocha&layout=compact&langs_count=7&theme=dark" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madalena-rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madalena-rocha&theme=dark" alt="stats" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=madalena-rocha&column=8&theme=darkhub&no-frame=true&no-bg=true" />
+  </a>
+</div>
+
+<div align="center">
+  <h2>Profile Visitor Count</h2>
+  <img src="https://profile-counter.glitch.me/madalena-rocha/count.svg" />
+</div>
 
 ## Badges
 

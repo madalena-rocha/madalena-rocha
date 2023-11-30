@@ -3,17 +3,21 @@
 <img src="https://user-images.githubusercontent.com/102333181/183000071-0c8845b5-e71b-4c74-8912-05e3145f3fa1.png" alt="Brazil's flag" width="40" />
 
 <p>Olá 👋🏾</p>
-<p>Sou uma Engenheira Mecânica com mestrado em Ciência dos Materiais e formação complementar em programação, atuando no Desenvolvimento Front-end.</p>
-<p>Atualmente, faço parte do Space Squad, uma comunidade de tecnologia da Rocketseat, onde compartilho conhecimentos e aprendo com outros desenvolvedores.</p>
-<p>Meu objetivo é colaborar em projetos que façam a diferença na vida das pessoas.</p>
+<p>
+  Sou uma Engenheira Mecânica com mestrado em Ciência dos Materiais e formação complementar em programação, atuando no Desenvolvimento Front-end.
+  Atualmente, faço parte do Space Squad, uma comunidade de tecnologia da Rocketseat, onde compartilho conhecimentos e aprendo com outros desenvolvedores.
+  Meu objetivo é colaborar em projetos que façam a diferença na vida das pessoas.
+</p>
 <p>Vamos construir algo juntos?</p>
 
 <img src="https://user-images.githubusercontent.com/102333181/183000154-724b273a-f987-4128-88c0-0edc3b809bde.png" alt="United states's flag" width="40" />
 
 <p>Hello 👋🏾</p>
-<p>I'm a Mechanical Engineer with a master's degree in Materials Science and additional training in programming, working in Front-end Development.</p>
-<p>Currently, I'm a member of Space Squad, a technology community at Rocketseat, where I share knowledge and learn from other developers.</p>
-<p>My goal is to contribute to projects that make a difference in people's lives.</p>
+<p>
+  I'm a Mechanical Engineer with a master's degree in Materials Science and additional training in programming, working in Front-end Development.
+  Currently, I'm a member of Space Squad, a technology community at Rocketseat, where I share knowledge and learn from other developers.
+  My goal is to contribute to projects that make a difference in people's lives.
+</p>
 <p>Shall we build something together?</p>
 
 ## Contact me

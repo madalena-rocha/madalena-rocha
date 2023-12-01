@@ -9,6 +9,7 @@
   Meu objetivo é colaborar em projetos que façam a diferença na vida das pessoas.
 </p>
 <p>Vamos construir algo juntos?</p>
+<h2></h2>
 
 <img src="https://user-images.githubusercontent.com/102333181/183000154-724b273a-f987-4128-88c0-0edc3b809bde.png" alt="United states's flag" width="40" />
 
@@ -20,7 +21,7 @@
 </p>
 <p>Shall we build something together?</p>
 
-## Contact me
+<h2>Contact me</h2>
 
 <a href="https://www.linkedin.com/in/madalena-machado-rocha/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -35,7 +36,7 @@
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
 </a>
 
-## Techs & Tools
+<h2>Techs & Tools</h2>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -47,33 +48,27 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-## GitHub Analytics
+<h2>GitHub Analytics</h2>
 
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madalena-rocha&layout=compact&langs_count=7&theme=dark" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madalena-rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madalena-rocha&theme=dark" alt="stats" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madalena-rocha&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madalena-rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madalena-rocha&theme=dark" alt="stats" />
+</div>
 
-<div align="center">
+<h2>GitHub Trophies</h2>
+
+<div>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=madalena-rocha&column=8&theme=darkhub&no-frame=true&no-bg=true" />
   </a>
 </div>
 
-<div align="center">
+<div>
   <h2>Profile Visitor Count</h2>
   <img src="https://profile-counter.glitch.me/madalena-rocha/count.svg" />
 </div>
 
-## Badges
+<h2>Badges</h2>
 
 [![@madalena's Holopin board](https://holopin.me/madalena)](https://holopin.io/@madalena)

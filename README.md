@@ -1,4 +1,4 @@
-![Header](https://github.com/madalena-rocha/madalena-rocha/blob/main/assets/github-header-image-en.png)
+![Header](https://github.com/madalena-rocha/madalena-rocha/blob/main/assets/github-header-image.png)
 
 <img src="https://user-images.githubusercontent.com/102333181/183000071-0c8845b5-e71b-4c74-8912-05e3145f3fa1.png" alt="Brazil's flag" width="40" />
 

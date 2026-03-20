@@ -4,7 +4,7 @@
 
 <p>Olá 👋🏾</p>
 <p>
-  Sou uma Desenvolvedora Front-end com formação em Engenheira Mecânica e mestrado.
+  Sou uma Desenvolvedora Front-end com formação em Engenharia Mecânica e doutorado.
   Atualmente, faço parte do Space Squad, uma comunidade de tecnologia da Rocketseat, onde compartilho conhecimentos e aprendo com outros desenvolvedores.
   Meu objetivo é colaborar em projetos que façam a diferença na vida das pessoas.
 </p>
@@ -15,7 +15,7 @@
 
 <p>Hello 👋🏾</p>
 <p>
-  I'm a Front-end Developer with a background in Mechanical Engineering and a master's degree.
+  I'm a Front-end Developer with a background in Mechanical Engineering and a PhD.
   Currently, I'm a member of Space Squad, a technology community at Rocketseat, where I share knowledge and learn from other developers.
   My goal is to contribute to projects that make a difference in people's lives.
 </p>
